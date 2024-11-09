@@ -1,0 +1,5 @@
+Lista de ideias pro plugin:
+1- NPC Com ChatGPT pra criar proprias interações (bem dificil)
+2- Mod de Comida customizada (isso da pra fazer com resourcepack E na 1.21.1 com as coisas q eles adicionaram)
+3- Ticket Discord <-> Minecraft (Staff responde pelo discord, membro pelo minecraft <- isso é bem burro, podia fazer o canal do ticket q o membro tb tenha acesso no discord)
+4- 
